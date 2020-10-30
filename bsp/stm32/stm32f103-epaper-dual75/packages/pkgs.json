@@ -1,0 +1,197 @@
+[
+ {
+  "path": "/packages/iot/pahomqtt", 
+  "ver": "v1.1.0", 
+  "name": "PAHOMQTT"
+ }, 
+ {
+  "path": "/packages/iot/webclient", 
+  "ver": "v2.1.2", 
+  "name": "WEBCLIENT"
+ }, 
+ {
+  "path": "/packages/iot/libmodbus", 
+  "ver": "latest", 
+  "name": "LIBMODBUS"
+ }, 
+ {
+  "path": "/packages/iot/at_device", 
+  "ver": "v2.0.3", 
+  "name": "AT_DEVICE"
+ }, 
+ {
+  "path": "/packages/iot/ota_downloader", 
+  "ver": "latest", 
+  "name": "OTA_DOWNLOADER"
+ }, 
+ {
+  "path": "/packages/iot/libcurl2rtt", 
+  "ver": "v7.67.0", 
+  "name": "LIBCURL2RTT"
+ }, 
+ {
+  "path": "/packages/security/mbedtls", 
+  "ver": "v2.7.10", 
+  "name": "MBEDTLS"
+ }, 
+ {
+  "path": "/packages/language/Lua", 
+  "ver": "v1.0.0", 
+  "name": "LUA"
+ }, 
+ {
+  "path": "/packages/tools/qrcode", 
+  "ver": "latest", 
+  "name": "QRCODE"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "v0.5.0", 
+  "name": "FAL"
+ }, 
+ {
+  "path": "/packages/system/FlashDB", 
+  "ver": "v1.0.0", 
+  "name": "FLASHDB"
+ }, 
+ {
+  "path": "/packages/system/sqlite", 
+  "ver": "v3.19.3", 
+  "name": "SQLITE"
+ }, 
+ {
+  "path": "/packages/system/yaffs2", 
+  "ver": "latest", 
+  "name": "YAFFS"
+ }, 
+ {
+  "path": "/packages/system/syswatch", 
+  "ver": "latest", 
+  "name": "SYSWATCH"
+ }, 
+ {
+  "path": "/packages/system/minIni", 
+  "ver": "v1.2.0", 
+  "name": "MININI"
+ }, 
+ {
+  "path": "/packages/system/qboot", 
+  "ver": "latest", 
+  "name": "QBOOT"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/shtc1", 
+  "ver": "latest", 
+  "name": "SHTC1"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/max6675", 
+  "ver": "latest", 
+  "name": "MAX6675"
+ }, 
+ {
+  "path": "/packages/peripherals/button", 
+  "ver": "v1.0.1", 
+  "name": "BUTTON"
+ }, 
+ {
+  "path": "/packages/peripherals/SignalLed", 
+  "ver": "latest", 
+  "name": "SIGNAL_LED"
+ }, 
+ {
+  "path": "/packages/peripherals/LedBlink", 
+  "ver": "latest", 
+  "name": "LEDBLINK"
+ }, 
+ {
+  "path": "/packages/peripherals/littled", 
+  "ver": "latest", 
+  "name": "LITTLED"
+ }, 
+ {
+  "path": "/packages/peripherals/infrared", 
+  "ver": "latest", 
+  "name": "INFRARED"
+ }, 
+ {
+  "path": "/packages/peripherals/pca9685", 
+  "ver": "latest", 
+  "name": "PCA9685"
+ }, 
+ {
+  "path": "/packages/peripherals/i2c-tools", 
+  "ver": "latest", 
+  "name": "I2C_TOOLS"
+ }, 
+ {
+  "path": "/packages/peripherals/beep", 
+  "ver": "v1.1.0", 
+  "name": "BEEP"
+ }, 
+ {
+  "path": "/packages/peripherals/easyblink", 
+  "ver": "v2.0.1", 
+  "name": "EASYBLINK"
+ }, 
+ {
+  "path": "/packages/peripherals/quick_led", 
+  "ver": "v1.00", 
+  "name": "QLED"
+ }, 
+ {
+  "path": "/packages/misc/fastlz", 
+  "ver": "v1.0.1", 
+  "name": "FASTLZ"
+ }, 
+ {
+  "path": "/packages/misc/quicklz", 
+  "ver": "v1.0.1", 
+  "name": "QUICKLZ"
+ }, 
+ {
+  "path": "/packages/misc/MultiButton", 
+  "ver": "v1.0.2", 
+  "name": "MULTIBUTTON"
+ }, 
+ {
+  "path": "/packages/misc/FlexibleButton", 
+  "ver": "v1.0.0", 
+  "name": "FLEXIBLE_BUTTON"
+ }, 
+ {
+  "path": "/packages/misc/DigitalCtrl", 
+  "ver": "latest", 
+  "name": "DIGITALCTRL"
+ }, 
+ {
+  "path": "/packages/misc/uparam", 
+  "ver": "latest", 
+  "name": "UPARAM"
+ }, 
+ {
+  "path": "/packages/misc/samples/kernel_samples", 
+  "ver": "v0.3.0", 
+  "name": "KERNEL_SAMPLES"
+ }, 
+ {
+  "path": "/packages/misc/samples/filesystem_samples", 
+  "ver": "v0.2.0", 
+  "name": "FILESYSTEM_SAMPLES"
+ }, 
+ {
+  "path": "/packages/misc/samples/network_samples", 
+  "ver": "v0.3.0", 
+  "name": "NETWORK_SAMPLES"
+ }, 
+ {
+  "path": "/packages/misc/samples/peripheral_samples", 
+  "ver": "v0.4.0", 
+  "name": "PERIPHERAL_SAMPLES"
+ }, 
+ {
+  "path": "/packages/misc/crclib", 
+  "ver": "v1.00", 
+  "name": "CRCLIB"
+ }
+]
